@@ -44,7 +44,7 @@
     "@usebruno/schema": "0.7.0",
     "about-window": "^1.15.2",
     "aws4-axios": "^3.3.0",
-    "axios": "^1.8.3",
+    "axios": "^1.15.0",
     "axios-ntlm": "^1.4.2",
     "chai": "^4.3.7",
     "chokidar": "^3.5.3",
